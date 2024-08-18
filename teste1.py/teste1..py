@@ -1,7 +1,3 @@
-print ('Hello, World !')
-
-# Sistema para saber porcentagem de imposto de renda em Python
-
 salario_base = 2259.20
 try:
     salario = float(input('Digite seu salario: '))

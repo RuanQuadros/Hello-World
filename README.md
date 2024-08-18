@@ -1,2 +1,1 @@
-# Hello,World !
- 
+# Sistema para saber porcentagem de imposto de renda em Python
